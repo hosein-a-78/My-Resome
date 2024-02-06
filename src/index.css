@@ -16,11 +16,11 @@
 }
 
 :root {
-    --primary-color: #025a4e;
-    --primary-color_dark: #234138;
-    --secondary-color: #a3dcd4;
-    --bg-color: #ede7de;
-    --text-color: #4c6763;
+    --primary-color: #164863;
+    --primary-color_dark: #33799e;
+    --secondary-color: #54a7c0;
+    --bg-color: #DDF2FD;
+    --text-color: #2f3534;
 }
 
 ::selection {
@@ -43,13 +43,13 @@
 }
 
 ::-webkit-scrollbar-button {
-    background-color: #333;
+    background-color: #444343;
 }
 
 /* body */
 body,
 html {
-    background-image: linear-gradient(30deg, var(--bg-color), #e4d2c7, #b9e1dc);
+    background-image: linear-gradient(30deg, var(--bg-color), #9BBEC8, #7babc5);
     scroll-behavior: smooth;
     cursor: context-menu;
     font-family: sans-serif;
