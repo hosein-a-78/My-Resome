@@ -2,7 +2,7 @@
 
 
 ## My Resome
-![Alt text](./src/assets/Images/screen.png)
+![Alt text](./src/Assets/Images/screen.png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
