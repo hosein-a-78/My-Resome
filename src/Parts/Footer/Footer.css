@@ -1,10 +1,10 @@
 .footer {
-    background-image: linear-gradient(to bottom , transparent , #aee4de);
+    background-image: linear-gradient(to bottom, transparent, #aee4de);
     color: var(--primary-color);
 }
 
 .footer .container {
-    padding: 20px 30px;
+    padding: 20px 80px;
 }
 
 /* Responsive */
