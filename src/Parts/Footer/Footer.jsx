@@ -12,7 +12,7 @@ function Footer() {
 
                 <nav>
                     <SocialMedia url='https://wa.me/09194196652' icon='icon-whatsapp' />
-                    <SocialMedia url='https://github.com/abed-a-78' icon='icon-github' />
+                    <SocialMedia url='https://github.com/hosein-a-78' icon='icon-github' />
                     <SocialMedia url='https://telegram.me/@abed_a_78' icon='icon-telegram' />
                 </nav>
             </div>
