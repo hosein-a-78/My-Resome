@@ -26,7 +26,7 @@ function Contact() {
                     <SocialMedia url='https://wa.me/09194196652' icon='icon-whatsapp' link='09194196652' />
                     <SocialMedia url='https://telegram.me/@abed_a_78' icon='icon-telegram' link='@Hosein_a_78' />
                     <SocialMedia url='tel:+989194196652' icon='icon-phone' link='09194196652' />
-                    <SocialMedia url='abed.re.k00021@gmail.com' icon='icon-gmail' link='abed.re.k00021@gmail.com' />
+                    <SocialMedia url='hosein.kamalu.78@gmail.com' icon='icon-gmail' link='abed.re.k00021@gmail.com' />
                 </nav>
             </main>
         </>
