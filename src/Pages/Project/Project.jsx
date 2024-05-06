@@ -1,5 +1,5 @@
 // Images
-import crypto from '../../assets/Images/crypto.png';
+import crypto1 from '../../assets/Images/crypto1.png';
 import cryptoTest from '../../assets/Images/cryptoTest.png';
 import netflix from '../../assets/Images/netflix.png';
 import netflixTest from "../../Assets/Images/netflixTest.png";
@@ -27,7 +27,7 @@ const data = [
         type: 'project',
         projectName: 'Crypto App',
         categories: ['html5', 'css3', 'react'],
-        image: crypto,
+        image: crypto1,
         test: cryptoTest,
         description: 'Dive into the world of cryptocurrencies with my React-based project, the CryptoToken Explorer! This single-page application (SPA) is designed to provide users with a seamless experience to explore and visualize information about various cryptocurrencies. Utilizing React and Paginate, the project allows users to search for specific cryptocurrency tokens by name. The search functionality is dynamic, providing real-time results as users type.Implemented Paginate for efficient handling of large datasets, ensuring a smooth and organized presentation of token information.Clicking on each token reveals an interactive medal chart showcasing its historical performance. Ive integrated charting libraries to visualize the price trends, empowering users with valuable insights.',
         link: 'https://crypto-app-89cf.onrender.com/',
