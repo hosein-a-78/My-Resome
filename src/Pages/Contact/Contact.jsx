@@ -22,7 +22,7 @@ function Contact() {
 
                 <nav className='social-box container'>
                     <SocialMedia url='https://github.com/hosein-a-78' icon='icon-github' link='Hosein Kamalu' />
-                    <SocialMedia url='https://www.linkedin.com/in/hosein-kamalu-6361602a5/' icon='icon-linkedin' link='Hosein Kamalu' />
+                    <SocialMedia url='www.linkedin.com/in/hosein-kamalu-9abb93303' icon='icon-linkedin' link='Hosein Kamalu' />
                     <SocialMedia url='https://wa.me/09194196652' icon='icon-whatsapp' link='09194196652' />
                     <SocialMedia url='https://telegram.me/@abed_a_78' icon='icon-telegram' link='@Hosein_a_78' />
                     <SocialMedia url='tel:+989194196652' icon='icon-phone' link='09194196652' />
