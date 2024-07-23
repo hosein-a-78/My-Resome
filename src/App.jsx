@@ -12,11 +12,11 @@ function App() {
     <>
       <SiteLoader />
       <Header />
-        <Routes>
-          <Route path="/" element={<Project/>}/>
-          <Route path="/About" element={<About/>}/>
-          <Route path="/Contact" element={<Contact/>}/>
-        </Routes>
+      <Routes>
+        <Route path="/" element={<Project />} />
+        <Route path="/About" element={<About />} />
+        <Route path="/Contact" element={<Contact />} />
+      </Routes>
       <Footer />
     </>
   );
