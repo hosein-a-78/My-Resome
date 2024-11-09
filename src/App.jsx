@@ -6,12 +6,14 @@ import About from './Pages/About/About';
 import Contact from './Pages/Contact/Contact';
 import Project from './Pages/Project/Project';
 import Footer from "./Parts/Footer/Footer";
+import ScrollToTop from "./Components/Scroll-top/ScrollToTop";
 
 function App() {
   return (
     <>
       <SiteLoader />
       <Header />
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<Project />} />
         <Route path="/About" element={<About />} />
